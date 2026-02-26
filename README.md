@@ -1,14 +1,8 @@
 # ‼️ PLEASE READ THIS AND THE LICENSE ‼️
 
----
-
 ### ⚠️ IMPORTANT — PLEASE READ BEFORE USING THIS SOURCE
-
 Before using, modifying, or distributing any part of this project, you **must** read the LICENSE file.
-
 This project is provided for **personal and educational use only**.
-
----
 
 ### ✅ You are allowed to:
 - Study the source code  
@@ -21,13 +15,9 @@ This project is provided for **personal and educational use only**.
 - Rename this project and present it as your own original work  
 - Claim ownership of this project or any substantial portion of its code  
 
----
-
 Proper credit **must** be given to the original author (Dervi) in any public distribution.
 This project represents significant time and effort. Please respect the work, the license, and the developer.
 Failure to follow these terms may result in legal action.
-
----
 
 ## 🛠 How to Build
 - Open the project in IntelliJ  
