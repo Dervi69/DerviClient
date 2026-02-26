@@ -23,4 +23,4 @@ Failure to follow these terms may result in legal action.
 - Open the project in IntelliJ  
 - Create a new Gradle configuration and run `build`  
 - After the build completes, find the `.jar` file in `build/libs/`  
-  (Default name: `argon-b1.1.jar` unless changed)
+  (Default name: `DerviClient-1.2.jar` unless changed)
