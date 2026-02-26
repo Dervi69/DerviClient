@@ -1,2 +1,1 @@
-# DerviClient
-Best 1.21 external minecraft web gui cheat client
+# ‼️PLEASE READ THIS AND THE LICENSE ‼️
